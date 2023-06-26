@@ -1,0 +1,87 @@
+
+
+
+
+.carousel-inner {max-width: 1600px;
+max-height: 400px}
+
+.carousel-inner img {
+	object-fit: cover;
+	object-position: center;
+	height: 50vh;
+}
+
+.carousel-item img {
+	object-fit: cover;
+	object-position: center;
+	height: 50vh;
+}
+
+h1 { font-family: 'Antic Slab', serif;
+font-size: 3em;
+color: #3c2415}
+
+#shop {background-color:   #F3CFC6;
+	color: ##F88379;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fe68b4;
+    } 
+
+
+
+    .nav-link {color: #3c2415;
+    	font-family: 'Antic Slab', serif;
+    
+font-weight: bold;
+font-size: 1.5em;
+margin-top:30px;
+            padding-block: 30px;} 
+
+   .nav-link:hover { 
+    color: floralwhite;} 
+
+   h2 {
+   	margin-top:120px;
+            padding-block: 120px;
+            font-family: 'Antic Slab', serif;
+   }
+
+   .padded-image {margin-top:45px;
+            padding-block: 45px;
+            background-color: D69F6C;
+            }
+
+
+#welcome-line {background-color: #F5F5DC;
+}
+    
+
+    	#contact-info {background-color: #7f917d;
+         width: 100%;
+         padding:20px;
+         box-sizing: border-box;
+
+    	}
+
+h3 { 
+	color: floralwhite;
+font-size: 1.5em;
+margin-top: 30px;
+padding-block: 30px;
+font-family: 'Antic Slab', serif;
+}
+
+h2 {background-color:   #F3CFC6;}
+
+
+h4 {font-family: 'Antic Slab', serif; font-weight: bolder;}
+
+h5 {font-family: 'Antic Slab', serif;}
+h6 { margin-top:90px;
+            padding-block: 90px;
+            font-family: 'Antic Slab', serif; 
+            font-size: 150%;
+            background-color: #D69F6C;}
+
